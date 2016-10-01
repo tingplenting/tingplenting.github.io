@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "November Part 1"
-date: 2016-09-30
+date: 2016-10-01
 ---
 
 

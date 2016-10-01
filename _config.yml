@@ -1,2 +1,3 @@
-name: Arislan Kar, A Student
+name: Arislan Kar, A Storyteller
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

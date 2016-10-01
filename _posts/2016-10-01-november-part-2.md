@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "November Part 2"
-date: 2016-09-30
+date: 2016-10-01
 ---
 
 "Kadang kamu perlu spontanitas dan hal tak terencana dalam sebuah rencana"

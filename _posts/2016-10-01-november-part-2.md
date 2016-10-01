@@ -1,3 +1,9 @@
+---
+layout: post
+title: "November Part 2"
+date: 2016-09-30
+---
+
 "Kadang kamu perlu spontanitas dan hal tak terencana dalam sebuah rencana"
 
 Sepanjang karirku menjadi anak-maha, hampir semua hal yang direncanakan berujung pada kegagalan. Di sini saya jadi kurang paham. Begitu pula sebaliknya, sedangkan hal-hal yang spontanitas atau tak terencana kerap kali berhasil.

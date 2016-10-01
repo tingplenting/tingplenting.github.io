@@ -1,3 +1,9 @@
+---
+layout: post
+title: "November Part 1"
+date: 2016-10-01
+---
+
 "Hidupmu benar-benar membosankan!"
 
 

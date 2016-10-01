@@ -11,7 +11,7 @@ layout: feed
 	<id>http://tingplenting.github.io/blog</id>
 	<author>
 		<name>Arislan Kar</name>
-		<email>tingplentinghub@gmail.com</email>
+		<email>tingplenting@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}

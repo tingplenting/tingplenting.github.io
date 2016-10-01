@@ -6,7 +6,7 @@ date: 2016-10-01
 
 Setelah dua bulan berteman di Facebook dan WhatsApp, Heta mengajak Mira untuk ketemuan dan disetujuinya. Mereka bertemu di sebuah cafe dan semuanya berjalan dengan lancar. Kemudian mereka mulai sering ketemuan. Tanpa sadar hubungan mereka mulai berkembang dan suka satu sama lain, namun keduanya tak pernah membahas topik tersebut.
 
-Pada suatu hari, Heta terlihat tidak nyaman setelah mendapatkan panggilan telpon. Saat mira menanyakan kenapa. Heta menjawab,"Barusan dari ayah, dia bilang besok aku bakalan dikenalin sama cewek.. hmm.. pernikahanku."
+Pada suatu hari, Heta terlihat tidak nyaman setelah mendapatkan panggilan telpon. Saat mira menanyakan kenapa. Heta menjawab, "Barusan dari ayah, dia bilang besok aku bakalan dikenalin sama cewek.. hmm.. pernikahanku."
 
 "Jadi itu yang kamu mau?", tanya Mira.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Joker bussiness"
+title: "The Joker Bussiness"
 date: 2016-09-30
 ---
 

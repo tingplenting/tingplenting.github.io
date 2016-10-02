@@ -1,3 +1,5 @@
 name: Arislan Kar, A Storyteller
 markdown: kramdown
-permalink: /blog/:title.html
+baseurl: blog/
+url: "tingplenting.github.io"
+permalink: /:title

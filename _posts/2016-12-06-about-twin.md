@@ -6,7 +6,7 @@ date: 2016-12-06
 
 so you guys are twins?
 
-I envy you
+I envy you.
 
 You know about twin, they are one. each other is half, your life must be very interesting. there is no boundary between them. no privacy, of course. even personaly and exprience, sometimes it can be same also. You know, there is a manga named monster Written by Naoki Urasawa. There is an experience only one of them through it, but both of them feel it like real one. That's what make them more twin in experience and personality.
 

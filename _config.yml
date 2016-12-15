@@ -1,4 +1,5 @@
-name: Arislan Kar, A Storyteller
+name: Arislan K, A Storyteller
 markdown: kramdown
 url: tingplenting.github.io
 permalink: /blog/:title
+highlighter: rouge

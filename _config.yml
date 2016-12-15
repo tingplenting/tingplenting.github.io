@@ -1,5 +1,5 @@
-name: Arislan K, A Storyteller
-markdown: kramdown
+name: Arislan K
 url: tingplenting.github.io
-permalink: /blog/:title
+markdown: kramdown
 highlighter: rouge
+permalink: /blog/:title

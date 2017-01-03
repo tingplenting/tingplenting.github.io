@@ -1,9 +1,18 @@
 ---
 layout: default
-title: Github & Me
 ---
-<div class="blurb">
-	<h1>Let's smile</h1>
-	<p>Smile because it confuses people. Smile because it's easier than explaining what's killing you inside.</p>
-	<p><em>_ from the Internet</em></p>
-</div><!-- /.blurb -->
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>

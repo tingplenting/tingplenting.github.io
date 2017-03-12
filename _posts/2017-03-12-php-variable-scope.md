@@ -194,3 +194,5 @@ baz(); // outputs "baz", WTF?!?!!
 There's no indication that this function has any *side effects*, yet it does. This very easily becomes a tangled mess as some functions keep modifying and *requiring* some global state. You want functions to be stateless, acting only on their inputs and returning defined output, however many times you call them.
 
 You should avoid using the global scope in any way as much as possible; most certainly you should not be "pulling" variables out of the global scope into a local scope.
+
+source: [http://stackoverflow.com/a/16959577](http://stackoverflow.com/a/16959577)

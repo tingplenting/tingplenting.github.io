@@ -5,7 +5,6 @@ date: 2017-02-06
 ---
 
 ```javascript
-
 angular
     .module('app')
     .directive('focusMe',focusMe);

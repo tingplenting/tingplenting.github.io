@@ -91,6 +91,8 @@ Every new `function` declaration introduces a new scope, it's that simple.
 ##### (anonymous) functions inside functions
 
 ```php
+<?php
+
 function foo() {
     $foo = 'bar';
 
@@ -106,6 +108,8 @@ function foo() {
 ##### classes
 
 ```php
+<?php
+
 $foo = 'foo';
 
 class Bar {
@@ -127,6 +131,8 @@ Dealing with scoping issues may seem annoying, but **limited variable scope is e
 Observe:
 
 ```php
+<?php
+
 function foo() {
     echo $bar;
 }
@@ -139,6 +145,8 @@ If there was no scope, what would the above function do? Where does `$bar` come 
 ##### The right way: passing variables in and out
 
 ```php
+<?php
+
 function foo($bar) {
     echo $bar;
     return 42;
@@ -148,6 +156,8 @@ function foo($bar) {
 The variable `$bar` is explicitly coming into this scope as function argument. Just looking at this function it's clear where the values it works with originate from. It then explicitly *returns* a value. The caller has the confidence to know what variables the function will work with and where its return values come from:
 
 ```php
+<?php
+
 $baz   = 'baz';
 $blarg = foo($baz);
 ```
@@ -155,6 +165,8 @@ $blarg = foo($baz);
 ##### Extending the scope of variables into anonymous functions
 
 ```php
+<?php
+
 $foo = 'bar';
 
 $baz = function () use ($foo) {
@@ -171,6 +183,8 @@ The anonymous function explicitly includes `$foo` from its surrounding scope. No
 As said before, the global scope is somewhat special, and functions can explicitly import variables from it:
 
 ```php
+<?php
+
 $foo = 'bar';
 
 function baz() {
@@ -185,6 +199,8 @@ This function uses and modifies the global variable `$foo`. **Do not do this!** 
 All the caller of this function sees is this:
 
 ```php
+<?php
+
 baz(); // outputs "bar"
 unset($foo);
 baz(); // no output, WTF?!

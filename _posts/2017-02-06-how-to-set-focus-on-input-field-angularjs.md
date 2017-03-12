@@ -4,6 +4,8 @@ title: How to set focus on input field? AngularJS
 date: 2017-02-06 
 ---
 
+### app.js
+
 ```javascript
 angular
     .module('app')

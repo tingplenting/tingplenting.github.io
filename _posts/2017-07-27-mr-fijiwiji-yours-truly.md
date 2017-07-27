@@ -5,10 +5,12 @@ date: 2017-07-27
 ---
 
 Featuring **Danyka Nadeau**
+
 Produced by **Mr FijiWiji**
+
 Album **Growing Up EP**
 
-##[Intro: Danyka Nadeau]
+### [Intro: Danyka Nadeau]
 
 Baby
 Can you...
@@ -27,7 +29,7 @@ But what we have is what one spends a lifetime searching for
 Why would I be so ashamed, found love worth fighting for
 Standing right at the gates, walking your stairway to heaven
 
-##[Chorus: Danyka Nadeau]
+### [Chorus: Danyka Nadeau]
 
 Baby I'm in love
 And I can't get enough

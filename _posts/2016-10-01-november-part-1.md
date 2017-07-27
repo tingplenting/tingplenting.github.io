@@ -30,29 +30,31 @@ Ucapan "anak-anak" adalah kata jamak lebih dari satu. Jadi, dalam perhitunganku 
 Tut.. kututup telpon sambil kembali ke dalam lamunan dan mencoba tidur malam. 
 Dalam lamunan ini aku terus mencari jawaban. Kenapa, Bagaimana, dan Apa: bisa/tidak produktif lagi seperti 4 bulan lalu?
 
-Ketika dalam tahap pengembangan imajinasi, teringat percakapanku dengan si Rusdi sekitar kurang lebih 3 minggu lalu saat dia dan Nuri main ke rumah.
+Ketika dalam tahap pengembangan imajinasi, teringat percakapanku dengan si Rusdi sekitar kurang lebih 3 minggu lalu saat dia dan Nuri main ke tempat tinggalku.
 
-"coy, berantakan sih rumah kau"
+"coy, berantakan amat sih ni.."
 
 "yaelah... kau aneh pake nanya"
 
 "cari pembantu lah, atau cewe gitu. kalo bisa cewe yang bisa dijadiin pembantu atau sebaliknya kan asik"
 
-"ah ribet"
+"arrrrgh.. ribet!"
 
 "nggak gitu juga coy, kadang awak juga nggak enak liatnya. cuma kau sama Ardian aja yang masih kosongan"
 
-"mau nyariin po? tau sendirikan kalo aku kadang ..."
+"mau nyariin po?" tanyaku ngasal
 
-"ya nggak gitu kan awak tak tau kek mana kriteria kau" potongnya dengan logat medan
+"ya nggak gitu kan.. awak tak tau kek mana kriteria kau" potongnya dengan logat medan
 
-"tenang, aku sama siapa aja cocok kok. kau ini kek nggak kenal aja. Jadi?"
+"ada apa emangnya?... kau ini kek nggak kenal aja"
+
+"Jadi?" lanjutku
 
 
 Singkatnya si Rusdi punya temen cewe yang ngecomblangin dia sama Nuri, cewenya sekarang. Menurut mereka dia adalah jenis cewek periang, ramah dan easy going. Saat ini si cewek sedang dalam masalah: patah hati tingkat dewa sampe mencoba bunuh diri dengan minum obat nyamuk cair kayak adegan sineteron di TV setelah di putus sama pacarnya. Entah bagaimana ceritanya secara kebetulan Nuri datang tepat waktu sebelum si kawan menghabiskan seluruh obat nyamut cair tersebut. Kemudian, dibawanya ke rumah sakit oleh Nuri dan nginep 4 hari.
 
 
-Intinya. Nuri yang terlanjur sayang sama temennya pengen ngebalikin semangat dan keceriaannya.
+Intinya. Nuri, pengen ngebalikin semangat dan keceriaann teman dekatnya tersebut.
 "Yaelah Nur... tau nggak sih sebenernya sudah lama aku naksir kamu"
 Balasku setelah ngedengerin cerita mereka yang dianggap angin lalu sama Rusdi dan Nuri.
 
